@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e198e8170526ad445eefb9b9",
+  "owner": "senbtbdyg",
+  "repo": "page-8fd19d5ebb8df0d3ee4fdf35",
+  "title": "莉莉安",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8fd19d5ebb8df0d3ee4fdf35",
+      "a": "莉莉安",
+      "b": "稳定全球clash加速器",
+      "entity": "莉莉安",
+      "brand": "莉莉安",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "66c169f6bbb882a36b4cce6521ee499ec6becf0a4705997ebd66d6d9d2a520f5",
+      "content": {
+        "primary_entity": "莉莉安",
+        "keyword1": "莉莉安",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，Windows、macOS、Android、iOS 与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量习惯选好套餐，按 Clash 客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_DESCRIPTION": "，莉莉安提供基础版、旗舰版与团队版三档 Clash 加速订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，按年付还有更优价格。",
+          "AI_FEATURES_INTRO": "套餐按流量、设备数量和线路品质区分，选择时关注日常连接设备与月均用量。",
+          "AI_FEATURES_TITLE": "特点与选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备在线，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，5 台设备，配 IPLC 专线适合游戏与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，20 台设备，VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "订阅用量",
+          "AI_FEATURE_TITLE_2": "设备与周期",
+          "AI_FEATURE_TITLE_3": "线路品质",
+          "AI_GUIDE_INTRO": "从选套餐到完成 Clash 配置，三步就能用上莉莉安加速服务。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "莉莉安为 Clash 用户提供多档加速订阅，覆盖 Windows、macOS、Android、iOS 与路由器等常见客户端，按设备数量和月流量选择套餐即可。",
+          "AI_HERO_SUBTITLE": "多端 Clash 订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付更省费用",
+          "AI_PLANS_INTRO": "基础版满足轻量使用，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版和团队版之间确定订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配客户端与在线设备要求，确认系统版本和连接方式。",
+          "AI_STEP_TEXT_3": "参照对应 Clash 客户端文档导入订阅链接，完成节点与代理配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "莉莉安 Clash 加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路差异。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "打开已安装的客户端，找到订阅管理或配置导入入口，粘贴订阅链接后更新即可。具体操作请参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版可支持 20 台。请根据实际设备数量选择合适套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付一次性支付，总价更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路有差异吗？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版增加 IPLC 专线并支持原生流媒体解锁，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量耗尽后，可以升级套餐或等待下月重置。建议根据日常用量选择稍高一档的流量套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmpthbrm.cn",
+    "host": "tmpthbrm.cn"
+  },
+  "file_hashes": {
+    "index.html": "5eeebc7827ec9bcd3037999659bc4e381bb279de1dbe2be53cc955117ce3fca7",
+    "sitemap.xml": "137f3eef2c0734385a87dc02b5084cdac66db71f7113921cb8a6172e7ceac367",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bc91fc8f14747cd8ab1d9b517f43d46509674656df37afb26e171f8460868e9b",
+    "robots.txt": "139df8edc1a36cc389c44cd27d86ae8f273cfcb80525b432f92494dbbdc67f80",
+    "bba61bf8e178e73f4e74aefaa8434f82.txt": "e8a56da32a0a567077ceeb4bd5dbad2ead16fc736b5cf154a91113c77ffed3e3"
+  },
+  "revision": "6d89c1fff5de29d91b6891999e2339dd4d1275d58df41a388cb024bdc9c6127f"
+}
